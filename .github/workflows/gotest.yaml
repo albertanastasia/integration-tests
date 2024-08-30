@@ -1,4 +1,4 @@
-name: Devfile Go integration tests
+run-name: Devfile Go integration tests
 
 on:
   push:
